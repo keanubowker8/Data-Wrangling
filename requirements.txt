@@ -1,0 +1,23 @@
+I used these packages:
+- pandas
+- seaborn
+- matplotlib.pyplot
+
+
+You import them like this:
+- import pandas as pd
+- import seaborn as sns
+- import matplotlib.pyplot as plt
+
+How to install them:
+ 
+ For anaconda distribution:
+ - conda install matplotlib
+ - conda install pandas
+ - conda install matplotlib.pyplot
+
+
+ For other distributions:
+ - pip install matplotlib
+ - pip install pandas
+ - conda install matplotlib.pyplot
